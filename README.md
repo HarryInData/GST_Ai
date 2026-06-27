@@ -2,7 +2,7 @@
 
 > A modern, full-stack GST invoice management SaaS built with **Next.js 16**, **Prisma**, and **NextAuth**. Streamline your Indian tax compliance with AI-powered invoicing, customer management, inventory tracking, and financial reporting — all in one place.
 
----
+---------------------------------------------------------------------------------------------
 
 ## ✨ Features
 
