@@ -13,39 +13,39 @@
 - Unique invoice numbering per organization with configurable prefix
 - Reverse charge mechanism support
 
-### 👥 Customer Management
+###  Customer Management
 - Maintain customer directory with GSTIN, billing & shipping addresses
 - State-wise customer tracking for inter/intra-state tax computation
 
-### 📦 Product & Inventory
+###  Product & Inventory
 - Product catalog with **HSN codes**, SKU, and GST rate mapping
 - Real-time stock tracking with low-stock alerts
 - Unit-of-measure and purchase price tracking
 
-### 💰 Payments & Expenses
+###  Payments & Expenses
 - Record payments against invoices (Cash, Bank Transfer, UPI, Cheque)
 - Expense tracking with GST input tax credit (ITC) breakdown
 - Categorized expense management (Rent, Salary, Utilities, Travel, Tax, etc.)
 
-### 📊 Reports & Analytics
+###  Reports & Analytics
 - Dashboard with key business metrics
 - Revenue, tax, and expense summaries
 - Visual analytics with **Recharts**
 
-### 🔐 Authentication & Multi-tenancy
+###  Authentication & Multi-tenancy
 - Secure authentication via **NextAuth v5** (credentials + OAuth)
 - Role-based access control (Admin / Staff)
 - Organization-level data isolation
 
-### 🎨 Modern UI/UX
+###  Modern UI/UX
 - Beautiful, responsive interface built with **shadcn/ui** + **Radix UI**
 - Dark mode support via **next-themes**
-- Toast notifications with **Sonner**
+- Tast notifications with **Sonner**
 - AI-powered components for intelligent workflows
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 | Layer          | Technology                                         |
 | -------------- | -------------------------------------------------- |
