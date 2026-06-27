@@ -1,0 +1,12 @@
+{
+  "name": "gst-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GST AI - Intelligent GST Invoicing Platform",
+  "scripts": {
+    "dev": "cd gstflow && npm run dev",
+    "build": "cd gstflow && npm run build",
+    "start": "cd gstflow && npm run start",
+    "lint": "cd gstflow && npm run lint"
+  }
+}
